@@ -5,6 +5,7 @@ public class EmailCheck {
 		
 		System.out.println("HEJ");
 		System.out.println("HEJ PÅ DIG");
+		System.out.println()
 		
 		if(email.isEmpty())
 			return false; 
